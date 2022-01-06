@@ -1,0 +1,5 @@
+com\flipkart\pages\BasePage.class
+com\flipkart\pages\AddToCartPage.class
+com\flipkart\commons\CommonFunctions.class
+com\flipkart\pages\HomePage.class
+com\flipkart\pages\ProductPage.class

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-03T22:51:17 IST" name="FirstTest-suite1" finished-at="2022-01-03T22:51:34 IST" duration-ms="17357">
+    <groups>
+    </groups>
+    <test started-at="2022-01-03T22:51:17 IST" name="C:/Users/umanjalis/eclipse-workspace/flipkart/src/test/java/TechAdemyCourse/pageObject/test/FirstTest.java" finished-at="2022-01-03T22:51:34 IST" duration-ms="17357">
+      <class name="TechademyCourse.pageObject.test.FirstTest">
+        <test-method is-config="true" signature="init()[pri:0, instance:TechademyCourse.pageObject.test.FirstTest@21b2e768]" started-at="2022-01-03T22:51:17 IST" name="init" finished-at="2022-01-03T22:51:19 IST" duration-ms="2330" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="firstTest()[pri:0, instance:TechademyCourse.pageObject.test.FirstTest@21b2e768]" started-at="2022-01-03T22:51:19 IST" name="firstTest" finished-at="2022-01-03T22:51:34 IST" duration-ms="14300" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TechademyCourse.pageObject.test.FirstTest@21b2e768]" started-at="2022-01-03T22:51:34 IST" name="tearDown" finished-at="2022-01-03T22:51:34 IST" duration-ms="696" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TechademyCourse.pageObject.test.FirstTest -->
+    </test> <!-- C:/Users/umanjalis/eclipse-workspace/flipkart/src/test/java/TechAdemyCourse/pageObject/test/FirstTest.java -->
+  </suite> <!-- FirstTest-suite1 -->
+</testng-results>
